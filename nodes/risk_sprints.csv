@@ -1,0 +1,4 @@
+Project Name,Task/Item,Category,Impact,Probability,Severity,Risk_Score,Future_Risk_Trend,Mitigation Steps and Explanation
+FinCore Production Grade,SPR-0950,Dependency,High,High,High,High,Likely to Escalate,Align API updates earlier with external teams to avoid blocking development. Proactive dependency management required.
+FinCore Production Grade,BUG-1880,QA,Moderate,High,Moderate,High,Likely to Resolve,Improve regression test coverage and root cause analysis. Immediate action to close reopened defects.
+FinCore Production Grade,Resource Capacity (Ramesh K),Backend Dev,High,Moderate,High,Moderate,Potential Spillover,Redistribute workload or onboard backup resource to mitigate risk of under-capacity affecting sprint delivery.
