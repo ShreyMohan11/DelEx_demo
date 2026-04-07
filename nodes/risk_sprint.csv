@@ -1,0 +1,3 @@
+Project Name,Task/Item,Category,Impact,Probability,Severity,Risk_Score,Future_Risk_Trend,Explanation
+FinCore Production Grade,SPR-0950,Dependency,5,5,Critical,25,Likely to Escalate,Blocked development due to late API contract update from external team; historical data shows such dependencies often escalate if not resolved early.
+FinCore Production Grade,BUG-1880,QA,3,5,High,15,Likely to Resolve,Reopened defect from regression gap; similar issues in history were resolved after improving test coverage.
