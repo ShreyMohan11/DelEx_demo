@@ -1,0 +1,3 @@
+Project Name,Task/Item,Category,Impact,Probability,Severity,Risk_Score,Future_Risk_Trend,Mitigation Steps,Explanation
+LogiChain,SPR-0950,Dependency,High,High,High,High,Likely to Escalate,Align API contract earlier with external team; proactive communication,Blocked development due to late external update; historical data shows similar blockers escalate unless dependencies are managed early.
+LogiChain,BUG-1880,QA,Moderate,High,High,High,Potential Spillover,Strengthen regression coverage; improve root cause analysis,Recurring reopened defect from regression gap; historical QA issues often spill over unless test coverage is improved.
