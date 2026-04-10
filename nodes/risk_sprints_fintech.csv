@@ -1,0 +1,6 @@
+Project Name,Task/Item,Category,Impact,Probability,Severity,Risk_Score,Future_Risk_Trend,Mitigation Steps,Explanation
+FinCore Production Grade,SPR-0950,Dependency,High,High,Major,High,Likely to Escalate,"Align API earlier, communicate dependency risks proactively",Historical risks show late API updates cause major blockers; early alignment mitigates escalation.
+FinCore Production Grade,BUG-1880,QA,Moderate,High,Major,High,Potential Spillover,"Improve test coverage, review regression cases",Missed edge cases and reopened defects historically lead to spillover; increased coverage reduces recurrence.
+FinCore Production Grade,Dev Completion,Backend,High,Moderate,Major,High,Likely to Resolve,"Monitor API readiness, ensure code baseline",Backend delays historically escalate if not monitored; current plan likely resolves with baseline checks.
+FinCore Production Grade,QA Completion,QA,Moderate,Moderate,Moderate,Moderate,Likely to Resolve,"Structured test execution, automation coverage",QA milestones at risk of delay; automation and structured execution historically resolve moderate risks.
+FinCore Production Grade,Release Ready,DevOps,High,Moderate,Major,High,Potential Spillover,"Validate checklist, ensure infra readiness",Release delays due to infra readiness historically spill over; checklist validation mitigates risk.
